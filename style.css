@@ -339,7 +339,7 @@ header>.follow>a:hover{
 	gap: 1.5rem;
 }
 .portfolio>.box-container>.box{
-	flex: 1 1 30rem;
+	flex: 1 1 60rem;
 	height: 25rem;
 	position: relative;
 	overflow: hidden;
